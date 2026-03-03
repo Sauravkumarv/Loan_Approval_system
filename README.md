@@ -5,16 +5,6 @@ This project is built using **Gaussian Naive Bayes**, deployed using **Streamlit
 
 ---
 
-## 🚀 Live Demo
-
-(Add your Streamlit link here after deployment)
-
-```
-https://yourapp.streamlit.app
-```
-
----
-
 ## 📌 Project Overview
 
 This project predicts loan approval status using applicant features such as:
