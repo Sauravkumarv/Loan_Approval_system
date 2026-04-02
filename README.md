@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction App
+# 🏦    Loan Approval Prediction App
 
 A Machine Learning web application that predicts whether a loan will be approved or not based on applicant details.
 This project is built using **Gaussian Naive Bayes**, deployed using **Streamlit**, and trained in Jupyter Notebook.
