@@ -44,7 +44,7 @@ The model was trained on a dataset with **27 input features**.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Loan_Approval_Project/
