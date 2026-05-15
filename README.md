@@ -18,7 +18,7 @@ This project predicts loan approval status using applicant features such as:
 * Credit History
 * And other features
 
-The model was trained on a dataset with ** 27 input features**.
+The model was trained on a dataset with **27 input features**.
 
 ---
 
