@@ -22,7 +22,7 @@ The model was trained on a dataset with **27 input features**.
 
 ---
 
-## 🧠 Machine Learning Model
+## 🧠 Machine            Learning Model
 
 * Algorithm Used: **Gaussian Naive Bayes**
 * Library: `scikit-learn`
