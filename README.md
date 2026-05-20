@@ -32,7 +32,7 @@ The model was trained on a dataset with **27 input features**.
 
 ---
 
-## 🛠                     Tech Stack
+## 🛠 Tech Stack
 
 * Python
 * Jupyter Notebook
